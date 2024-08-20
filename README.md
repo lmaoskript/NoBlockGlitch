@@ -1,0 +1,2 @@
+# NoBlockGlitch
+Prevent Block Glitching
