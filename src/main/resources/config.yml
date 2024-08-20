@@ -1,0 +1,6 @@
+# Log in console when a player block glitches
+log-flags: false
+# Push player instead of teleporting them
+use-velocity: false
+# Speed the player will be pull down (NUMBER MUST BE POSITIVE)
+pull-speed: 1

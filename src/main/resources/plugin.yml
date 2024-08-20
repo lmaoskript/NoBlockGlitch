@@ -1,0 +1,12 @@
+name: NoBlockGlitch
+version: '1.0.0'
+main: sk.addon.noBlockGlitch.NoBlockGlitch
+api-version: '1.19'
+authors: [ skAddon ]
+description: Prevents block glitching
+website: https://paypal.me/skaddon
+commands:
+  noblockglitch:
+    description: Main command for the plugin
+    usage: /<command> [reload]
+    aliases: [nbg]
